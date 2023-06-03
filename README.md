@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cfromns
 - 👀 I’m interested in computer graphics.
-- 🌱 I’m currently learning Angular CLI 15.
+- 🌱 I’m currently learning AWS Services.
 - 📫 How to reach me:  coutwin@newstuff.com
 
 <!---
